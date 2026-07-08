@@ -1,0 +1,25 @@
+{
+  "patient": {
+    "name": "Juan Dela Cruz",
+    "caregiver": "Maria Dela Cruz"
+  },
+
+  "schedule": {
+    "morning": "08:00",
+    "night": "20:00"
+  },
+
+  "command": {
+    "dispense": false
+  },
+
+  "status": {
+    "deviceOnline": false,
+    "lastDispense": "None",
+    "medicineTaken": false
+  },
+
+  "logs": {
+    "lastAction": "System Started"
+  }
+}
